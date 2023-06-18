@@ -23,16 +23,44 @@
 <body>
    <div id='modal'>
       <div style='display: flex; justify-content: flex-end; padding-bottom: 8px; padding-top: 8px;'>
-         <strong style="color:#504949 !important; cursor: pointer;" onclick="$('#modal').hide()">x</strong>
+         <strong style='color:#504949 !important; cursor: pointer;' onclick='$("#modal").hide()'>x</strong>
       </div>
       <header>
-         <span>Comunidade: <strong id='com_name'>Viciados em Terror</strong> <span id="com_id"></span></span>
-         <span><strong id='com_users'>3000</strong> Usuários</span>
+         <span>Comunidade: <strong id='com_name'></strong> <span id='com_id'></span></span>
+         <span><strong id='com_users'></strong> Usuários</span>
       </header>
       <hr />
       <span>conteudo</span>
    </div>
-   <svg width='960' height='960'></svg>
+   <div style="max-width: 100%; width: 100%; display: flex; justify-content: center;">
+      <svg style="min-width: 960px; " width='960' height='960'></svg>
+   </div>
+   <div id='help'>
+      <div style="display: flex; justify-content: space-between;">
+         <div>
+            <h1>Netflix User Behavior</h1>
+            <h2>Estudo de Caso</h2>
+         </div>
+         <img height="80px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png" alt="Netflix">
+      </div>
+      <br/>
+      <br/>
+      <h2>Sobre a Plataforma</h2>
+      <br/>
+      <p>Esta plataforma Web é parte do resultado do método abordado no artigo <strong>Identificação de Padrões Comportamentais utilizando Clickstreams</strong>.</p>
+      <br/>
+      <p>A identificação de <strong>padrões comportamentais</strong> de usuários em plataformas digitais permite com que empresas compreendam o comportamento de seus clientes e maximizem o <strong>engajamento</strong> juntamente com a redução de abandono. Uma das formas de compreensão deste comportamento é por meio do <strong>Clickstream</strong> destes usuários, sendo o Clickstream a representação do percurso do usuário na plataforma. </p>
+      <br/>
+      <p>Este artigo aborda um método aliado na descoberta de <strong>padrões comportamentais</strong> por meio de  redes complexas,  cálculos estatísticos e computação distribuída. Foram obtidos <strong>resultados consistentes</strong> neste artigo, frutos de um estudo feito em uma base de dados real de uma grande plataforma mundial de streaming.</p>
+      <br/>
+      <br/>
+      <h2>Como utilizar</h2>
+      <br />
+      <p>Ao <strong>clicar</strong> sobre uma determinada comunidade, a plataforma exibe um conjunto de informações sobre a mesma. Para <strong>cada agrupamento</strong>, é exibido o identificador único, quantidade usuários da comunidade e um nome temporário para a mesma.</p>
+      <br />
+      <p>Vale ressaltar que esta versão é apenas uma <strong>prévia da plataforma</strong>, sendo ela complementada em um segundo momento.</p>
+   
+   </div>
 </body>
 <script src='https://d3js.org/d3.v4.min.js'> </script>
 <script src='./scripts/d3.js'> </script>
