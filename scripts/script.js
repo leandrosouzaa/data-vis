@@ -1,6 +1,6 @@
 var clusters_info;
 
-$.getJSON( "https://leandrosouzaa.github.io/user-behavior/files/clusters-data.json", function( data ) {
+$.getJSON("https://leandrosouzaa.github.io/data-vis/files/clusters-data.json", function( data ) {
    clusters_info = data;
  });
 
