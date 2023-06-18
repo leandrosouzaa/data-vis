@@ -97,11 +97,16 @@
       {
             "name": "Com. 20",
             "id": 20,
-            "size": 473
+            "size": 463
       },
       {
             "name": "Com. 21",
             "id": 21,
+            "size": 10
+      }
+      {
+            "name": "Com. 22",
+            "id": 22,
             "size": 10
       }
 ]
