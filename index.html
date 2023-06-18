@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<meta charset='utf-8'>
+<html lang='en'>
+
+<head>
+   <meta charset='UTF-8'>
+   <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+   <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+
+   <link rel='stylesheet' href='./styles/styles.css'>
+   <link rel='stylesheet' href='./styles/d3js.css'>
+
+   <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js'></script>
+   <script src='./scripts/script.js'> </script>
+
+   <link rel='preconnect' href='https://fonts.googleapis.com'>
+   <link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
+   <link href='https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap' rel='stylesheet'>
+
+   <title>Netflix User Behavior</title>
+</head>
+
+<body>
+   <div id='modal'>
+      <div style='display: flex; justify-content: flex-end; padding-bottom: 8px; padding-top: 8px;'>
+         <strong style="color:#504949 !important; cursor: pointer;" onclick="$('#modal').hide()">x</strong>
+      </div>
+      <header>
+         <span>Comunidade: <strong id='com_name'>Viciados em Terror</strong> <span id="com_id"></span></span>
+         <span><strong id='com_users'>3000</strong> Usuários</span>
+      </header>
+      <hr />
+      <span>conteudo</span>
+   </div>
+   <svg width='960' height='960'></svg>
+</body>
+<script src='https://d3js.org/d3.v4.min.js'> </script>
+<script src='./scripts/d3.js'> </script>
+
+</html>
