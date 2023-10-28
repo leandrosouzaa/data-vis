@@ -1,7 +1,7 @@
 var clusters_info;
 var colors
 
-$.getJSON( "https://leandrosouzaa.github.io/data-vis/files/clusters-structure.json", function( data ) {
+$.getJSON( "https://leandrosouzaa.github.io/data-vis/files/clusters-data.json", function( data ) {
    clusters_info = data;
  });
 
