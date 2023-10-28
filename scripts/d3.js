@@ -5,7 +5,8 @@ g = svg.append("g").attr("transform", "translate(" + diameter / 2 + "," + diamet
 
 var color = d3.scaleLinear()
 .domain([-1, 5])
-.range(["hsl(0, 94%, 20%)", "hsl(0, 75%, 75%)"])
+    .domain([-1, 5])
+    .range(["hsl(152,80%,80%)", "hsl(228,30%,40%)"])
 .interpolate(d3.interpolateHcl);
 
 var pack = d3.pack()
@@ -19,7 +20,6 @@ root = d3.hierarchy(root)
    .sum(function (d) { return d.size; })
    .sort(function (a, b) { return b.value - a.value; });
 
-
 var focus = root,
    nodes = pack(root).descendants(),
    view;
@@ -28,7 +28,7 @@ var circle = g.selectAll("circle")
    .data(nodes)
    .enter().append("circle")
    .attr("class", function (d) { return d.parent ? d.children ? "node" : "node node--leaf" : "node node--root"; })
-   .style("fill", function (d) { return d.children ? color(d.depth) : color(5); })
+   .style("fill", function (d) { return d.children ? color(1) : null; })
    .on("dblclick", function (d) { if (focus !== d) zoom(d), d3.event.stopPropagation(); })
    .on("click", function (d) {showModal(d), d3.event.stopPropagation(); });
 
@@ -43,7 +43,6 @@ var text = g.selectAll("text")
 var node = g.selectAll("circle,text");
 
 svg
-   .style("background", '#221f1f')
    .on("click", function () { zoom(root);});
 
 zoomTo([root.x, root.y, root.r * 2 + margin]);

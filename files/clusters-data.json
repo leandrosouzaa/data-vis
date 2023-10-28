@@ -1,112 +1,2929 @@
 [
       {
-            "name": "Com. 1",
-            "id": 1,
-            "size": 1568
-      },
-      {
-            "name": "Com. 2",
-            "id": 2,
-            "size": 1354
-      },
-      {
-            "name": "Com. 3",
-            "id": 3,
-            "size": 586
-      },
-      {
-            "name": "Com. 4",
-            "id": 4,
-            "size": 1957
-      },
-      {
-            "name": "Com. 5",
-            "id": 5,
-            "size": 1125
-      },
-      {
-            "name": "Com. 6",
-            "id": 6,
-            "size": 4402
-      },
-      {
-            "name": "Com. 7",
-            "id": 7,
-            "size": 387
-      },
-      {
-            "name": "Com. 8",
-            "id": 8,
-            "size": 1827
-      },
-      {
-            "name": "Com. 9",
-            "id": 9,
-            "size": 3513
-      },
-      {
-            "name": "Com. 10",
-            "id": 10,
-            "size": 2579
-      },
-      {
-            "name": "Com. 11",
-            "id": 11,
-            "size": 1068
-      },
-      {
-            "name": "Com. 12",
+            "name": "Desbravadores do Espaço",
             "id": 12,
-            "size": 2791
+            "size": 2771,
+            "ngrams": [
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 8601
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi_Fantasia em A\u00e7\u00e3o e Aventura",
+                        "score": 1158
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Suspense_A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 1125
+                  },
+                  {
+                        "ngram": "Fantasia em A\u00e7\u00e3o e Aventura_A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 931
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o e Suspense",
+                        "score": 910
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica",
+                        "score": 814
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 687
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 648
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 628
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 582
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 565
+                  },
+                  {
+                        "ngram": "Suspense Dram\u00e1tico_A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 527
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi_Com\u00e9dia de Crime",
+                        "score": 456
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi_Suspense Dram\u00e1tico",
+                        "score": 452
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi_Romance Vers\u00e1til",
+                        "score": 437
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi_Diversidade Documental",
+                        "score": 406
+                  },
+                  {
+                        "ngram": "Enigmas Cinematogr\u00e1ficos_A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 381
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o e Suspense_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 380
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi_Com\u00e9dia e Drama",
+                        "score": 376
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi_Mist\u00e9rios do Crime",
+                        "score": 359
+                  },
+                  {
+                        "ngram": "Aventuras em Fam\u00edlia_A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 357
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi_Enigmas Cinematogr\u00e1ficos",
+                        "score": 332
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 315
+                  },
+                  {
+                        "ngram": "Horror Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 315
+                  },
+                  {
+                        "ngram": "Aventura Sombria_A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 312
+                  },
+                  {
+                        "ngram": "Aventuras Cinematogr\u00e1ficas_A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 308
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi_Horror Sci-Fi",
+                        "score": 304
+                  },
+                  {
+                        "ngram": "Mist\u00e9rios do Crime_A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 294
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi_Aventuras em Fam\u00edlia",
+                        "score": 278
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_Fantasia em A\u00e7\u00e3o e Aventura_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 266
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi_Fic\u00e7\u00e3o Cient\u00edfica",
+                        "score": 262
+                  },
+                  {
+                        "ngram": "Fic\u00e7\u00e3o Cient\u00edfica_A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 259
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi_Intriga de A\u00e7\u00e3o e Mist\u00e9rio",
+                        "score": 247
+                  },
+                  {
+                        "ngram": "Intriga de A\u00e7\u00e3o e Mist\u00e9rio_A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 245
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi_Aventuras Fant\u00e1sticas",
+                        "score": 234
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi_Aventura Sombria",
+                        "score": 231
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 226
+                  },
+                  {
+                        "ngram": "Diversidade Documental_A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 215
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Romance Vers\u00e1til_Romance Vers\u00e1til",
+                        "score": 206
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi_Romance e Aventura \u00c9pica",
+                        "score": 189
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi_Aventuras Cinematogr\u00e1ficas",
+                        "score": 187
+                  },
+                  {
+                        "ngram": "Hist\u00f3ria e Drama_A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 184
+                  },
+                  {
+                        "ngram": "Aventuras Fant\u00e1sticas_A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 180
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi_Guerra e Drama",
+                        "score": 180
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_Suspense Dram\u00e1tico_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 177
+                  },
+                  {
+                        "ngram": "Aventura Fantasiosas em Fam\u00edlia_A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 158
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi_Suspense Constante",
+                        "score": 156
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi_Dramas Hist\u00f3ricos",
+                        "score": 152
+                  },
+                  {
+                        "ngram": "Suspense Constante_A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 147
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi_Conflitos e Caminhos",
+                        "score": 144
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o e Romance no Velho Oeste",
+                        "score": 142
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_Com\u00e9dia de A\u00e7\u00e3o_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 139
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi_Cinebiografia Variada",
+                        "score": 133
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi_Aventuras Interdimensionais",
+                        "score": 133
+                  },
+                  {
+                        "ngram": "Conflitos e Caminhos_A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 129
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi_Aventura Fantasiosas em Fam\u00edlia",
+                        "score": 126
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi_Romance e Intriga",
+                        "score": 126
+                  }
+            ]
       },
       {
-            "name": "Com. 13",
+            "name": "Viciados em Crime",
+            "id": 1,
+            "size": 1584,
+            "ngrams": [
+                  {
+                        "ngram": "Mist\u00e9rios do Crime_Mist\u00e9rios do Crime_Mist\u00e9rios do Crime",
+                        "score": 7570
+                  },
+                  {
+                        "ngram": "Mist\u00e9rios do Crime_Mist\u00e9rios do Crime_Romance Vers\u00e1til",
+                        "score": 767
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Mist\u00e9rios do Crime_Mist\u00e9rios do Crime",
+                        "score": 718
+                  },
+                  {
+                        "ngram": "Mist\u00e9rios do Crime_Mist\u00e9rios do Crime_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 702
+                  },
+                  {
+                        "ngram": "Mist\u00e9rios do Crime_Mist\u00e9rios do Crime_Diversidade Documental",
+                        "score": 548
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Mist\u00e9rios do Crime_Mist\u00e9rios do Crime",
+                        "score": 521
+                  },
+                  {
+                        "ngram": "Suspense Dram\u00e1tico_Mist\u00e9rios do Crime_Mist\u00e9rios do Crime",
+                        "score": 505
+                  },
+                  {
+                        "ngram": "Cinebiografia Variada_Mist\u00e9rios do Crime_Mist\u00e9rios do Crime",
+                        "score": 490
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Suspense_Mist\u00e9rios do Crime_Mist\u00e9rios do Crime",
+                        "score": 479
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Mist\u00e9rios do Crime_Mist\u00e9rios do Crime",
+                        "score": 470
+                  },
+                  {
+                        "ngram": "Mist\u00e9rios do Crime_Mist\u00e9rios do Crime_Aventura Sombria",
+                        "score": 438
+                  },
+                  {
+                        "ngram": "Mist\u00e9rios do Crime_Mist\u00e9rios do Crime_Suspense Dram\u00e1tico",
+                        "score": 413
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Mist\u00e9rios do Crime_Mist\u00e9rios do Crime",
+                        "score": 371
+                  },
+                  {
+                        "ngram": "Mist\u00e9rios do Crime_Mist\u00e9rios do Crime_Com\u00e9dia de Crime",
+                        "score": 365
+                  },
+                  {
+                        "ngram": "Mist\u00e9rios do Crime_Mist\u00e9rios do Crime_Biografia e Crime",
+                        "score": 364
+                  },
+                  {
+                        "ngram": "Mist\u00e9rios do Crime_Mist\u00e9rios do Crime_Intriga de A\u00e7\u00e3o e Mist\u00e9rio",
+                        "score": 360
+                  },
+                  {
+                        "ngram": "Mist\u00e9rios do Crime_Mist\u00e9rios do Crime_Conflitos e Caminhos",
+                        "score": 360
+                  },
+                  {
+                        "ngram": "Mist\u00e9rios do Crime_Romance Vers\u00e1til_Romance Vers\u00e1til",
+                        "score": 349
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Romance Vers\u00e1til_Mist\u00e9rios do Crime",
+                        "score": 322
+                  },
+                  {
+                        "ngram": "Mist\u00e9rios do Crime_Mist\u00e9rios do Crime_Com\u00e9dia e Drama",
+                        "score": 310
+                  },
+                  {
+                        "ngram": "Intriga de A\u00e7\u00e3o e Mist\u00e9rio_Mist\u00e9rios do Crime_Mist\u00e9rios do Crime",
+                        "score": 308
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Mist\u00e9rios do Crime_Mist\u00e9rios do Crime",
+                        "score": 301
+                  },
+                  {
+                        "ngram": "Mist\u00e9rios do Crime_Mist\u00e9rios do Crime_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica",
+                        "score": 294
+                  }
+            ]
+      },
+      {
+            "name": "Apenas Risadas",
             "id": 13,
-            "size": 2927
+            "size": 3522,
+            "ngrams": [
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 6113
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o_Romance Vers\u00e1til",
+                        "score": 1611
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 1209
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Romance Vers\u00e1til_Romance Vers\u00e1til",
+                        "score": 917
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Romance Vers\u00e1til_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 855
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de Crime",
+                        "score": 797
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Romance Vers\u00e1til_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 790
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Com\u00e9dia de A\u00e7\u00e3o_Romance Vers\u00e1til",
+                        "score": 740
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 569
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia e Drama",
+                        "score": 430
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o_Diversidade Documental",
+                        "score": 421
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 376
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 344
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o_Aventura Sombria",
+                        "score": 311
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Suspense_Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 292
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de Crime_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 263
+                  },
+                  {
+                        "ngram": "Conflitos e Caminhos_Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 230
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia e Drama_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 229
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o_Aventuras Cinematogr\u00e1ficas",
+                        "score": 224
+                  },
+                  {
+                        "ngram": "Mist\u00e9rios do Crime_Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 224
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o_Fantasia em A\u00e7\u00e3o e Aventura",
+                        "score": 222
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o_Aventuras em Fam\u00edlia",
+                        "score": 220
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o_A\u00e7\u00e3o e Suspense",
+                        "score": 214
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 211
+                  },
+                  {
+                        "ngram": "Aventuras em Fam\u00edlia_Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 200
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Romance Vers\u00e1til_Romance Vers\u00e1til",
+                        "score": 193
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 192
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia Fant\u00e1stica de Terror",
+                        "score": 189
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 188
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o_Cinebiografia Variada",
+                        "score": 181
+                  },
+                  {
+                        "ngram": "Suspense Dram\u00e1tico_Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 167
+                  },
+                  {
+                        "ngram": "Enigmas Cinematogr\u00e1ficos_Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 165
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o_Romance e Aventura \u00c9pica",
+                        "score": 163
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Conflitos e Caminhos_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 157
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o_Guerra e Drama",
+                        "score": 152
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Com\u00e9dia de A\u00e7\u00e3o_Romance Vers\u00e1til",
+                        "score": 150
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o_Conflitos e Caminhos",
+                        "score": 149
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o_Mist\u00e9rios do Crime",
+                        "score": 146
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o_Intriga de A\u00e7\u00e3o e Mist\u00e9rio",
+                        "score": 140
+                  },
+                  {
+                        "ngram": "Aventura Sombria_Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 138
+                  },
+                  {
+                        "ngram": "Melodias C\u00f4micas e Emocionantes_Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 126
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Com\u00e9dia de A\u00e7\u00e3o_Diversidade Documental",
+                        "score": 126
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o_Suspense Dram\u00e1tico",
+                        "score": 125
+                  },
+                  {
+                        "ngram": "Cinebiografia Variada_Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 123
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o_Enigmas Cinematogr\u00e1ficos",
+                        "score": 120
+                  },
+                  {
+                        "ngram": "Divers\u00e3o em Fam\u00edlia_Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 117
+                  }
+            ]
       },
       {
-            "name": "Com. 14",
-            "id": 14,
-            "size": 2208
+            "name": "Drama em Ação",
+            "id": 6,
+            "size": 4476,
+            "ngrams": [
+                  {
+                        "ngram": "Suspense Dram\u00e1tico_Suspense Dram\u00e1tico_Suspense Dram\u00e1tico",
+                        "score": 2735
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Suspense_A\u00e7\u00e3o e Suspense_A\u00e7\u00e3o e Suspense",
+                        "score": 2552
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Suspense_Suspense Dram\u00e1tico_Suspense Dram\u00e1tico",
+                        "score": 610
+                  },
+                  {
+                        "ngram": "Suspense Dram\u00e1tico_Suspense Dram\u00e1tico_A\u00e7\u00e3o e Suspense",
+                        "score": 594
+                  },
+                  {
+                        "ngram": "Suspense Dram\u00e1tico_A\u00e7\u00e3o e Suspense_A\u00e7\u00e3o e Suspense",
+                        "score": 582
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Suspense_A\u00e7\u00e3o e Suspense_Suspense Dram\u00e1tico",
+                        "score": 506
+                  },
+                  {
+                        "ngram": "Suspense Dram\u00e1tico_Suspense Dram\u00e1tico_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 365
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Romance Vers\u00e1til_Romance Vers\u00e1til",
+                        "score": 364
+                  },
+                  {
+                        "ngram": "Suspense Dram\u00e1tico_Suspense Dram\u00e1tico_Mist\u00e9rios do Crime",
+                        "score": 360
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Romance no Velho Oeste_A\u00e7\u00e3o e Romance no Velho Oeste_A\u00e7\u00e3o e Romance no Velho Oeste",
+                        "score": 317
+                  },
+                  {
+                        "ngram": "Mist\u00e9rios do Crime_Suspense Dram\u00e1tico_Suspense Dram\u00e1tico",
+                        "score": 298
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_A\u00e7\u00e3o e Suspense_A\u00e7\u00e3o e Suspense",
+                        "score": 280
+                  },
+                  {
+                        "ngram": "Suspense Dram\u00e1tico_A\u00e7\u00e3o e Suspense_Suspense Dram\u00e1tico",
+                        "score": 271
+                  },
+                  {
+                        "ngram": "Suspense Dram\u00e1tico_Suspense Dram\u00e1tico_A\u00e7\u00e3o e Romance no Velho Oeste",
+                        "score": 265
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Romance no Velho Oeste_Suspense Dram\u00e1tico_Suspense Dram\u00e1tico",
+                        "score": 259
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Suspense Dram\u00e1tico_Suspense Dram\u00e1tico",
+                        "score": 258
+                  },
+                  {
+                        "ngram": "Suspense Dram\u00e1tico_Suspense Dram\u00e1tico_Com\u00e9dia de Crime",
+                        "score": 250
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o e Suspense_A\u00e7\u00e3o e Suspense",
+                        "score": 244
+                  },
+                  {
+                        "ngram": "Suspense Dram\u00e1tico_Suspense Dram\u00e1tico_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 224
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_Suspense Dram\u00e1tico_Suspense Dram\u00e1tico",
+                        "score": 223
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Suspense_A\u00e7\u00e3o e Suspense_Horror Sci-Fi",
+                        "score": 207
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Suspense_A\u00e7\u00e3o e Suspense_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 203
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_A\u00e7\u00e3o e Suspense_A\u00e7\u00e3o e Suspense",
+                        "score": 199
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Suspense_A\u00e7\u00e3o e Suspense_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 196
+                  },
+                  {
+                        "ngram": "Mist\u00e9rios do Crime_A\u00e7\u00e3o e Suspense_A\u00e7\u00e3o e Suspense",
+                        "score": 193
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Diversidade Documental_Diversidade Documental",
+                        "score": 187
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Suspense Dram\u00e1tico_Suspense Dram\u00e1tico",
+                        "score": 181
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Suspense_A\u00e7\u00e3o e Suspense_Romance Vers\u00e1til",
+                        "score": 175
+                  },
+                  {
+                        "ngram": "Conflitos e Caminhos_Suspense Dram\u00e1tico_Suspense Dram\u00e1tico",
+                        "score": 175
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Suspense_Suspense Dram\u00e1tico_A\u00e7\u00e3o e Suspense",
+                        "score": 172
+                  },
+                  {
+                        "ngram": "Suspense Dram\u00e1tico_Suspense Dram\u00e1tico_Conflitos e Caminhos",
+                        "score": 170
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Suspense_A\u00e7\u00e3o e Suspense_Mist\u00e9rios do Crime",
+                        "score": 168
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Suspense_A\u00e7\u00e3o e Suspense_Hist\u00f3ria e Drama",
+                        "score": 167
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Suspense_A\u00e7\u00e3o e Suspense_Com\u00e9dia de Crime",
+                        "score": 157
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 157
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Romance no Velho Oeste_A\u00e7\u00e3o e Romance no Velho Oeste_Suspense Dram\u00e1tico",
+                        "score": 156
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Suspense_A\u00e7\u00e3o e Suspense_Intriga de A\u00e7\u00e3o e Mist\u00e9rio",
+                        "score": 155
+                  },
+                  {
+                        "ngram": "Suspense Dram\u00e1tico_A\u00e7\u00e3o e Romance no Velho Oeste_A\u00e7\u00e3o e Romance no Velho Oeste",
+                        "score": 153
+                  },
+                  {
+                        "ngram": "Suspense Dram\u00e1tico_Suspense Dram\u00e1tico_Guerra e Drama",
+                        "score": 153
+                  },
+                  {
+                        "ngram": "Suspense Dram\u00e1tico_Suspense Dram\u00e1tico_Enigmas Cinematogr\u00e1ficos",
+                        "score": 150
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Romance no Velho Oeste_A\u00e7\u00e3o e Suspense_A\u00e7\u00e3o e Suspense",
+                        "score": 150
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Suspense_A\u00e7\u00e3o e Suspense_A\u00e7\u00e3o e Romance no Velho Oeste",
+                        "score": 146
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Suspense_A\u00e7\u00e3o e Suspense_Diversidade Documental",
+                        "score": 146
+                  },
+                  {
+                        "ngram": "Suspense Dram\u00e1tico_Suspense Dram\u00e1tico_Fantasia em A\u00e7\u00e3o e Aventura",
+                        "score": 145
+                  },
+                  {
+                        "ngram": "Enigmas Cinematogr\u00e1ficos_A\u00e7\u00e3o e Suspense_A\u00e7\u00e3o e Suspense",
+                        "score": 143
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_A\u00e7\u00e3o e Suspense_A\u00e7\u00e3o e Suspense",
+                        "score": 142
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Suspense_A\u00e7\u00e3o e Suspense_Fantasia em A\u00e7\u00e3o e Aventura",
+                        "score": 139
+                  },
+                  {
+                        "ngram": "Suspense Dram\u00e1tico_Suspense Dram\u00e1tico_Intriga de A\u00e7\u00e3o e Mist\u00e9rio",
+                        "score": 139
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Suspense Dram\u00e1tico_Suspense Dram\u00e1tico",
+                        "score": 138
+                  },
+                  {
+                        "ngram": "Suspense Dram\u00e1tico_Suspense Dram\u00e1tico_Romance Vers\u00e1til",
+                        "score": 137
+                  }
+            ]
       },
       {
-            "name": "Com. 15",
-            "id": 15,
-            "size": 1014
-      },
-      {
-            "name": "Com. 16",
+            "name": "Crimes Reais",
             "id": 16,
-            "size": 1777
+            "size": 302,
+            "ngrams": [
+                  {
+                        "ngram": "Biografia e Crime_Biografia e Crime_Biografia e Crime",
+                        "score": 13831
+                  },
+                  {
+                        "ngram": "Biografia e Crime_Biografia e Crime_Suspense Dram\u00e1tico",
+                        "score": 1643
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Biografia e Crime_Biografia e Crime",
+                        "score": 1560
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Biografia e Crime_Biografia e Crime",
+                        "score": 1450
+                  },
+                  {
+                        "ngram": "Biografia e Crime_Biografia e Crime_Aventura Sombria",
+                        "score": 1098
+                  },
+                  {
+                        "ngram": "Conflitos e Caminhos_Biografia e Crime_Biografia e Crime",
+                        "score": 1031
+                  },
+                  {
+                        "ngram": "Biografia e Crime_Biografia e Crime_Conflitos e Caminhos",
+                        "score": 989
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Biografia e Crime_Biografia e Crime",
+                        "score": 981
+                  },
+                  {
+                        "ngram": "Biografia e Crime_Biografia e Crime_Diversidade Documental",
+                        "score": 809
+                  },
+                  {
+                        "ngram": "Aventuras em Fam\u00edlia_Biografia e Crime_Biografia e Crime",
+                        "score": 771
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Biografia e Crime_Biografia e Crime",
+                        "score": 765
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_Biografia e Crime_Biografia e Crime",
+                        "score": 715
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Com\u00e9dia de Crime_Biografia e Crime",
+                        "score": 715
+                  },
+                  {
+                        "ngram": "Biografia e Crime_Biografia e Crime_Romance Vers\u00e1til",
+                        "score": 650
+                  },
+                  {
+                        "ngram": "Cinebiografia Variada_Biografia e Crime_Biografia e Crime",
+                        "score": 615
+                  },
+                  {
+                        "ngram": "Biografia e Crime_Biografia e Crime_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 595
+                  },
+                  {
+                        "ngram": "Biografia e Crime_Biografia e Crime_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 570
+                  },
+                  {
+                        "ngram": "Biografia e Crime_Biografia e Crime_Com\u00e9dia Fant\u00e1stica de Terror",
+                        "score": 549
+                  }
+            ]
       },
       {
-            "name": "Com. 17",
-            "id": 17,
-            "size": 2260
+            "name": "Risos e Roubos",
+            "id": 3,
+            "size": 1862,
+            "ngrams": [
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Com\u00e9dia de Crime_Com\u00e9dia de Crime",
+                        "score": 5826
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de Crime_Com\u00e9dia de Crime",
+                        "score": 1327
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Com\u00e9dia de Crime_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 1222
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Com\u00e9dia de Crime_Romance Vers\u00e1til",
+                        "score": 832
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Com\u00e9dia de Crime_Com\u00e9dia de Crime",
+                        "score": 721
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Com\u00e9dia de Crime_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 520
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Com\u00e9dia de Crime_Com\u00e9dia de Crime",
+                        "score": 484
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de Crime",
+                        "score": 475
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Romance Vers\u00e1til_Romance Vers\u00e1til",
+                        "score": 464
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Com\u00e9dia de Crime_Com\u00e9dia e Drama",
+                        "score": 459
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_Com\u00e9dia de Crime_Com\u00e9dia de Crime",
+                        "score": 440
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Com\u00e9dia de Crime_Suspense Dram\u00e1tico",
+                        "score": 418
+                  },
+                  {
+                        "ngram": "Conflitos e Caminhos_Com\u00e9dia de Crime_Com\u00e9dia de Crime",
+                        "score": 409
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Com\u00e9dia de Crime_Diversidade Documental",
+                        "score": 375
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Com\u00e9dia de Crime_Fantasia em A\u00e7\u00e3o e Aventura",
+                        "score": 341
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Com\u00e9dia de Crime_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica",
+                        "score": 331
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_Com\u00e9dia de Crime_Com\u00e9dia de Crime",
+                        "score": 331
+                  },
+                  {
+                        "ngram": "Aventuras em Fam\u00edlia_Com\u00e9dia de Crime_Com\u00e9dia de Crime",
+                        "score": 313
+                  },
+                  {
+                        "ngram": "Fantasia em A\u00e7\u00e3o e Aventura_Com\u00e9dia de Crime_Com\u00e9dia de Crime",
+                        "score": 312
+                  },
+                  {
+                        "ngram": "Suspense Dram\u00e1tico_Com\u00e9dia de Crime_Com\u00e9dia de Crime",
+                        "score": 309
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Romance Vers\u00e1til_Com\u00e9dia de Crime",
+                        "score": 304
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Romance Vers\u00e1til_Com\u00e9dia de Crime",
+                        "score": 302
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Com\u00e9dia de Crime_Com\u00e9dia de Crime",
+                        "score": 271
+                  },
+                  {
+                        "ngram": "Mist\u00e9rios do Crime_Com\u00e9dia de Crime_Com\u00e9dia de Crime",
+                        "score": 269
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Com\u00e9dia de Crime_Mist\u00e9rios do Crime",
+                        "score": 252
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Com\u00e9dia de Crime_Aventuras Cinematogr\u00e1ficas",
+                        "score": 251
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Com\u00e9dia de Crime_Divers\u00e3o em Fam\u00edlia",
+                        "score": 243
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Suspense_Com\u00e9dia de Crime_Com\u00e9dia de Crime",
+                        "score": 240
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Com\u00e9dia de Crime_Aventura Fantasiosas em Fam\u00edlia",
+                        "score": 237
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Com\u00e9dia de Crime_Intriga de A\u00e7\u00e3o e Mist\u00e9rio",
+                        "score": 232
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Com\u00e9dia de Crime_Hist\u00f3ria e Drama",
+                        "score": 230
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_Com\u00e9dia de Crime",
+                        "score": 228
+                  },
+                  {
+                        "ngram": "Aventuras Cinematogr\u00e1ficas_Com\u00e9dia de Crime_Com\u00e9dia de Crime",
+                        "score": 217
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Com\u00e9dia de Crime_A\u00e7\u00e3o e Romance no Velho Oeste",
+                        "score": 209
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Com\u00e9dia de Crime_Conflitos e Caminhos",
+                        "score": 195
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Diversidade Documental_Com\u00e9dia de Crime",
+                        "score": 192
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia de Crime",
+                        "score": 185
+                  }
+            ]
       },
       {
-            "name": "Com. 18",
-            "id": 18,
-            "size": 2270
-      },
-      {
-            "name": "Com. 19",
-            "id": 19,
-            "size": 697
-      },
-      {
-            "name": "Com. 20",
+            "name": "Aventureiros do Futuro",
             "id": 20,
-            "size": 463
+            "size": 434,
+            "ngrams": [
+                  {
+                        "ngram": "Aventuras Cinematogr\u00e1ficas_Aventuras Cinematogr\u00e1ficas_Aventuras Cinematogr\u00e1ficas",
+                        "score": 7425
+                  },
+                  {
+                        "ngram": "Fic\u00e7\u00e3o Cient\u00edfica_Fic\u00e7\u00e3o Cient\u00edfica_Fic\u00e7\u00e3o Cient\u00edfica",
+                        "score": 7234
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Aventuras Cinematogr\u00e1ficas_Aventuras Cinematogr\u00e1ficas",
+                        "score": 1400
+                  },
+                  {
+                        "ngram": "Aventuras Cinematogr\u00e1ficas_Aventuras Cinematogr\u00e1ficas_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 1310
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_Aventuras Cinematogr\u00e1ficas_Aventuras Cinematogr\u00e1ficas",
+                        "score": 995
+                  },
+                  {
+                        "ngram": "Aventuras Cinematogr\u00e1ficas_Aventuras Cinematogr\u00e1ficas_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 873
+                  },
+                  {
+                        "ngram": "Aventuras Cinematogr\u00e1ficas_Aventuras Cinematogr\u00e1ficas_Com\u00e9dia de Crime",
+                        "score": 597
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Aventuras Cinematogr\u00e1ficas_Aventuras Cinematogr\u00e1ficas",
+                        "score": 535
+                  },
+                  {
+                        "ngram": "Fantasia em A\u00e7\u00e3o e Aventura_Aventuras Cinematogr\u00e1ficas_Aventuras Cinematogr\u00e1ficas",
+                        "score": 511
+                  },
+                  {
+                        "ngram": "Fic\u00e7\u00e3o Cient\u00edfica_Aventuras Cinematogr\u00e1ficas_Aventuras Cinematogr\u00e1ficas",
+                        "score": 457
+                  },
+                  {
+                        "ngram": "Fic\u00e7\u00e3o Cient\u00edfica_Fic\u00e7\u00e3o Cient\u00edfica_Romance Vers\u00e1til",
+                        "score": 449
+                  },
+                  {
+                        "ngram": "Fic\u00e7\u00e3o Cient\u00edfica_Fic\u00e7\u00e3o Cient\u00edfica_Horror Sci-Fi",
+                        "score": 407
+                  },
+                  {
+                        "ngram": "Conflitos e Caminhos_Fic\u00e7\u00e3o Cient\u00edfica_Fic\u00e7\u00e3o Cient\u00edfica",
+                        "score": 369
+                  },
+                  {
+                        "ngram": "Fic\u00e7\u00e3o Cient\u00edfica_Fic\u00e7\u00e3o Cient\u00edfica_Mist\u00e9rios do Crime",
+                        "score": 366
+                  }
+            ]
       },
       {
-            "name": "Com. 21",
+            "name": "Aspirantes a Vencedores",
+            "id": 5,
+            "size": 1198,
+            "ngrams": [
+                  {
+                        "ngram": "Conflitos e Caminhos_Conflitos e Caminhos_Conflitos e Caminhos",
+                        "score": 6873
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Conflitos e Caminhos_Conflitos e Caminhos",
+                        "score": 1062
+                  },
+                  {
+                        "ngram": "Conflitos e Caminhos_Conflitos e Caminhos_Romance Vers\u00e1til",
+                        "score": 707
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Conflitos e Caminhos_Conflitos e Caminhos",
+                        "score": 692
+                  },
+                  {
+                        "ngram": "Conflitos e Caminhos_Conflitos e Caminhos_Diversidade Documental",
+                        "score": 681
+                  },
+                  {
+                        "ngram": "Conflitos e Caminhos_Conflitos e Caminhos_Com\u00e9dia e Drama",
+                        "score": 677
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Romance Vers\u00e1til_Conflitos e Caminhos",
+                        "score": 670
+                  },
+                  {
+                        "ngram": "Conflitos e Caminhos_Romance Vers\u00e1til_Romance Vers\u00e1til",
+                        "score": 593
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Conflitos e Caminhos_Conflitos e Caminhos",
+                        "score": 579
+                  },
+                  {
+                        "ngram": "Conflitos e Caminhos_Conflitos e Caminhos_Romance e Aventura \u00c9pica",
+                        "score": 546
+                  },
+                  {
+                        "ngram": "Conflitos e Caminhos_Conflitos e Caminhos_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 526
+                  },
+                  {
+                        "ngram": "Conflitos e Caminhos_Conflitos e Caminhos_Aventura Sombria",
+                        "score": 507
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Conflitos e Caminhos_Conflitos e Caminhos",
+                        "score": 497
+                  },
+                  {
+                        "ngram": "Romance e Crime_Romance e Crime_Romance e Crime",
+                        "score": 497
+                  },
+                  {
+                        "ngram": "Romance e Aventura \u00c9pica_Conflitos e Caminhos_Conflitos e Caminhos",
+                        "score": 436
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Conflitos e Caminhos_Conflitos e Caminhos",
+                        "score": 434
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Conflitos e Caminhos_Romance Vers\u00e1til",
+                        "score": 413
+                  },
+                  {
+                        "ngram": "Conflitos e Caminhos_Conflitos e Caminhos_Intriga de A\u00e7\u00e3o e Mist\u00e9rio",
+                        "score": 397
+                  },
+                  {
+                        "ngram": "Conflitos e Caminhos_Conflitos e Caminhos_Mist\u00e9rios do Crime",
+                        "score": 388
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Romance Vers\u00e1til_Conflitos e Caminhos",
+                        "score": 289
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Suspense_Conflitos e Caminhos_Conflitos e Caminhos",
+                        "score": 271
+                  },
+                  {
+                        "ngram": "Conflitos e Caminhos_Conflitos e Caminhos_Cinebiografia Variada",
+                        "score": 267
+                  },
+                  {
+                        "ngram": "Conflitos e Caminhos_Conflitos e Caminhos_Hist\u00f3ria e Drama",
+                        "score": 264
+                  },
+                  {
+                        "ngram": "Guerra e Drama_Conflitos e Caminhos_Conflitos e Caminhos",
+                        "score": 257
+                  },
+                  {
+                        "ngram": "Conflitos e Caminhos_Romance e Crime_Romance e Crime",
+                        "score": 244
+                  },
+                  {
+                        "ngram": "Conflitos e Caminhos_Conflitos e Caminhos_Guerra e Drama",
+                        "score": 241
+                  },
+                  {
+                        "ngram": "Conflitos e Caminhos_Conflitos e Caminhos_Com\u00e9dia de Crime",
+                        "score": 240
+                  },
+                  {
+                        "ngram": "Mist\u00e9rios do Crime_Conflitos e Caminhos_Conflitos e Caminhos",
+                        "score": 214
+                  },
+                  {
+                        "ngram": "Conflitos e Caminhos_Conflitos e Caminhos_Aventura Fantasiosas em Fam\u00edlia",
+                        "score": 209
+                  },
+                  {
+                        "ngram": "Cinebiografia Variada_Cinebiografia Variada_Conflitos e Caminhos",
+                        "score": 205
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_Conflitos e Caminhos_Conflitos e Caminhos",
+                        "score": 197
+                  },
+                  {
+                        "ngram": "Intriga de A\u00e7\u00e3o e Mist\u00e9rio_Conflitos e Caminhos_Conflitos e Caminhos",
+                        "score": 191
+                  },
+                  {
+                        "ngram": "Romance e Crime_Conflitos e Caminhos_Conflitos e Caminhos",
+                        "score": 181
+                  },
+                  {
+                        "ngram": "Conflitos e Caminhos_Conflitos e Caminhos_Suspense Dram\u00e1tico",
+                        "score": 180
+                  },
+                  {
+                        "ngram": "Conflitos e Caminhos_Romance Vers\u00e1til_Conflitos e Caminhos",
+                        "score": 175
+                  },
+                  {
+                        "ngram": "Conflitos e Caminhos_Conflitos e Caminhos_Diversidade Hist\u00f3rica",
+                        "score": 174
+                  },
+                  {
+                        "ngram": "Diversidade Hist\u00f3rica_Conflitos e Caminhos_Conflitos e Caminhos",
+                        "score": 167
+                  },
+                  {
+                        "ngram": "Conflitos e Caminhos_Romance e Aventura \u00c9pica_Conflitos e Caminhos",
+                        "score": 164
+                  },
+                  {
+                        "ngram": "Aventura Sombria_Conflitos e Caminhos_Conflitos e Caminhos",
+                        "score": 158
+                  }
+            ]
+      },
+      {
+            "name": "Risos sem Gravidade",
+            "id": 19,
+            "size": 708,
+            "ngrams": [
+                  {
+                        "ngram": "A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica",
+                        "score": 13479
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Suspense_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica",
+                        "score": 1434
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 1257
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica",
+                        "score": 1254
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 1208
+                  },
+                  {
+                        "ngram": "Suspense Dram\u00e1tico_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica",
+                        "score": 1037
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_Com\u00e9dia de Crime",
+                        "score": 1027
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica",
+                        "score": 949
+                  },
+                  {
+                        "ngram": "Fantasia em A\u00e7\u00e3o e Aventura_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica",
+                        "score": 860
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica",
+                        "score": 827
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_A\u00e7\u00e3o e Suspense",
+                        "score": 814
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica",
+                        "score": 742
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_Suspense Dram\u00e1tico",
+                        "score": 730
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_Fantasia em A\u00e7\u00e3o e Aventura",
+                        "score": 673
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_A\u00e7\u00e3o, Aventura e Sci-Fi_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica",
+                        "score": 614
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_Aventura Fantasiosas em Fam\u00edlia",
+                        "score": 591
+                  },
+                  {
+                        "ngram": "Intriga de A\u00e7\u00e3o e Mist\u00e9rio_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica",
+                        "score": 577
+                  },
+                  {
+                        "ngram": "Diversidade Documental_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica",
+                        "score": 519
+                  },
+                  {
+                        "ngram": "Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica",
+                        "score": 487
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_Aventuras em Fam\u00edlia",
+                        "score": 462
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_Aventuras Cinematogr\u00e1ficas",
+                        "score": 453
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_Com\u00e9dia e Drama",
+                        "score": 440
+                  },
+                  {
+                        "ngram": "Aventuras em Fam\u00edlia_Diversidade Documental_Com\u00e9dia de Crime",
+                        "score": 414
+                  },
+                  {
+                        "ngram": "Aventuras Cinematogr\u00e1ficas_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica",
+                        "score": 397
+                  },
+                  {
+                        "ngram": "Mist\u00e9rios do Crime_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica",
+                        "score": 353
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_Romance Vers\u00e1til",
+                        "score": 350
+                  }
+            ]
+      },
+      {
+            "name": "Viciados no Amor",
+            "id": 15,
+            "size": 2253,
+            "ngrams": [
+                  {
+                        "ngram": "Romance Vers\u00e1til_Romance Vers\u00e1til_Romance Vers\u00e1til",
+                        "score": 19178
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Romance Vers\u00e1til_Romance e Aventura \u00c9pica",
+                        "score": 899
+                  },
+                  {
+                        "ngram": "Romance e Aventura \u00c9pica_Romance Vers\u00e1til_Romance Vers\u00e1til",
+                        "score": 823
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Romance Vers\u00e1til_Romance Vers\u00e1til",
+                        "score": 651
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Romance Vers\u00e1til_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 577
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Romance Vers\u00e1til_Romance Vers\u00e1til",
+                        "score": 535
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Romance Vers\u00e1til_Com\u00e9dia e Drama",
+                        "score": 446
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Romance Vers\u00e1til_Com\u00e9dia de Crime",
+                        "score": 328
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Romance e Aventura \u00c9pica_Romance Vers\u00e1til",
+                        "score": 313
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Romance Vers\u00e1til_Conflitos e Caminhos",
+                        "score": 240
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Romance Vers\u00e1til_Romance Vers\u00e1til",
+                        "score": 231
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Romance Vers\u00e1til_Dramas Familiares",
+                        "score": 226
+                  },
+                  {
+                        "ngram": "Divers\u00e3o em Fam\u00edlia_Romance Vers\u00e1til_Romance Vers\u00e1til",
+                        "score": 216
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Romance Vers\u00e1til_Divers\u00e3o em Fam\u00edlia",
+                        "score": 194
+                  }
+            ]
+      },
+      {
+            "name": "Famílias no Multiverso",
+            "id": 17,
+            "size": 2268,
+            "ngrams": [
+                  {
+                        "ngram": "Aventuras em Fam\u00edlia_Aventuras em Fam\u00edlia_Aventuras em Fam\u00edlia",
+                        "score": 6464
+                  },
+                  {
+                        "ngram": "Aventura Fantasiosas em Fam\u00edlia_Aventura Fantasiosas em Fam\u00edlia_Aventura Fantasiosas em Fam\u00edlia",
+                        "score": 1459
+                  },
+                  {
+                        "ngram": "Aventuras Interdimensionais_Aventuras Interdimensionais_Aventuras Interdimensionais",
+                        "score": 1455
+                  },
+                  {
+                        "ngram": "Aventuras em Fam\u00edlia_Aventuras em Fam\u00edlia_Aventuras Interdimensionais",
+                        "score": 832
+                  },
+                  {
+                        "ngram": "Aventuras Interdimensionais_Aventuras em Fam\u00edlia_Aventuras em Fam\u00edlia",
+                        "score": 798
+                  },
+                  {
+                        "ngram": "Aventuras em Fam\u00edlia_Aventuras em Fam\u00edlia_Aventura Fantasiosas em Fam\u00edlia",
+                        "score": 744
+                  },
+                  {
+                        "ngram": "Anima\u00e7\u00f5es M\u00e1gicas para Todos_Anima\u00e7\u00f5es M\u00e1gicas para Todos_Anima\u00e7\u00f5es M\u00e1gicas para Todos",
+                        "score": 699
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Aventuras em Fam\u00edlia_Aventuras em Fam\u00edlia",
+                        "score": 670
+                  },
+                  {
+                        "ngram": "Aventura Fantasiosas em Fam\u00edlia_Aventuras em Fam\u00edlia_Aventuras em Fam\u00edlia",
+                        "score": 628
+                  },
+                  {
+                        "ngram": "Anima\u00e7\u00f5es M\u00e1gicas para Todos_Aventuras em Fam\u00edlia_Aventuras em Fam\u00edlia",
+                        "score": 598
+                  },
+                  {
+                        "ngram": "Aventuras em Fam\u00edlia_Aventuras em Fam\u00edlia_Anima\u00e7\u00f5es M\u00e1gicas para Todos",
+                        "score": 519
+                  },
+                  {
+                        "ngram": "Aventura Animada_Aventuras em Fam\u00edlia_Aventuras em Fam\u00edlia",
+                        "score": 501
+                  },
+                  {
+                        "ngram": "Aventuras em Fam\u00edlia_Aventura Fantasiosas em Fam\u00edlia_Aventura Fantasiosas em Fam\u00edlia",
+                        "score": 493
+                  },
+                  {
+                        "ngram": "Aventuras Interdimensionais_Aventuras Interdimensionais_Aventuras em Fam\u00edlia",
+                        "score": 487
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Aventuras em Fam\u00edlia_Aventuras em Fam\u00edlia",
+                        "score": 486
+                  },
+                  {
+                        "ngram": "Aventura Fantasiosas em Fam\u00edlia_Aventura Fantasiosas em Fam\u00edlia_Aventuras em Fam\u00edlia",
+                        "score": 484
+                  },
+                  {
+                        "ngram": "Aventuras em Fam\u00edlia_Aventuras Interdimensionais_Aventuras em Fam\u00edlia",
+                        "score": 471
+                  },
+                  {
+                        "ngram": "Dramas Familiares_Dramas Familiares_Dramas Familiares",
+                        "score": 464
+                  },
+                  {
+                        "ngram": "Aventuras em Fam\u00edlia_Aventuras Interdimensionais_Aventuras Interdimensionais",
+                        "score": 461
+                  },
+                  {
+                        "ngram": "Aventura Animada_Aventura Animada_Aventura Animada",
+                        "score": 458
+                  },
+                  {
+                        "ngram": "Aventuras em Fam\u00edlia_Aventuras em Fam\u00edlia_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 447
+                  },
+                  {
+                        "ngram": "Aventuras em Fam\u00edlia_Aventuras em Fam\u00edlia_Romance Vers\u00e1til",
+                        "score": 446
+                  },
+                  {
+                        "ngram": "Aventuras em Fam\u00edlia_Aventuras em Fam\u00edlia_Divers\u00e3o em Fam\u00edlia",
+                        "score": 422
+                  },
+                  {
+                        "ngram": "Anima\u00e7\u00f5es M\u00e1gicas para Todos_Anima\u00e7\u00f5es M\u00e1gicas para Todos_Aventuras em Fam\u00edlia",
+                        "score": 366
+                  },
+                  {
+                        "ngram": "Aventuras em Fam\u00edlia_Anima\u00e7\u00f5es M\u00e1gicas para Todos_Anima\u00e7\u00f5es M\u00e1gicas para Todos",
+                        "score": 338
+                  },
+                  {
+                        "ngram": "Aventura Animada_Aventura Animada_Aventuras Interdimensionais",
+                        "score": 335
+                  },
+                  {
+                        "ngram": "Aventuras em Fam\u00edlia_Aventura Fantasiosas em Fam\u00edlia_Aventuras em Fam\u00edlia",
+                        "score": 330
+                  },
+                  {
+                        "ngram": "Aventuras em Fam\u00edlia_Aventuras em Fam\u00edlia_Aventura Animada",
+                        "score": 317
+                  },
+                  {
+                        "ngram": "Mist\u00e9rios em Fam\u00edlia_Mist\u00e9rios em Fam\u00edlia_Mist\u00e9rios em Fam\u00edlia",
+                        "score": 315
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Romance Vers\u00e1til_Aventuras em Fam\u00edlia",
+                        "score": 305
+                  },
+                  {
+                        "ngram": "Divers\u00e3o em Fam\u00edlia_Aventuras em Fam\u00edlia_Aventuras em Fam\u00edlia",
+                        "score": 305
+                  },
+                  {
+                        "ngram": "Aventura e M\u00fasica_Aventura e M\u00fasica_Aventura e M\u00fasica",
+                        "score": 300
+                  },
+                  {
+                        "ngram": "Aventuras em Fam\u00edlia_Aventura Animada_Aventura Animada",
+                        "score": 299
+                  },
+                  {
+                        "ngram": "Aventuras em Fam\u00edlia_Aventuras em Fam\u00edlia_Mist\u00e9rios em Fam\u00edlia",
+                        "score": 298
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_Aventuras em Fam\u00edlia_Aventuras em Fam\u00edlia",
+                        "score": 290
+                  },
+                  {
+                        "ngram": "Aventuras em Fam\u00edlia_Aventura Animada_Aventuras em Fam\u00edlia",
+                        "score": 282
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Aventuras em Fam\u00edlia_Aventuras em Fam\u00edlia",
+                        "score": 274
+                  },
+                  {
+                        "ngram": "Aventuras em Fam\u00edlia_Anima\u00e7\u00f5es M\u00e1gicas para Todos_Aventuras em Fam\u00edlia",
+                        "score": 268
+                  },
+                  {
+                        "ngram": "Aventura e M\u00fasica_Aventuras em Fam\u00edlia_Aventuras em Fam\u00edlia",
+                        "score": 249
+                  },
+                  {
+                        "ngram": "Aventuras Interdimensionais_Aventuras em Fam\u00edlia_Aventuras Interdimensionais",
+                        "score": 235
+                  },
+                  {
+                        "ngram": "Aventuras em Fam\u00edlia_Aventuras em Fam\u00edlia_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 234
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_Aventuras em Fam\u00edlia_Aventuras em Fam\u00edlia",
+                        "score": 221
+                  },
+                  {
+                        "ngram": "Aventuras Interdimensionais_Aventuras Interdimensionais_Aventura Animada",
+                        "score": 219
+                  },
+                  {
+                        "ngram": "Aventura Animada_Aventura Animada_Aventuras em Fam\u00edlia",
+                        "score": 217
+                  },
+                  {
+                        "ngram": "Mist\u00e9rios em Fam\u00edlia_Aventuras em Fam\u00edlia_Aventuras em Fam\u00edlia",
+                        "score": 216
+                  }
+            ]
+      },
+      {
+            "name": "A Vida em Três Atos",
+            "id": 9,
+            "size": 2058,
+            "ngrams": [
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Com\u00e9dia e Drama_Com\u00e9dia e Drama",
+                        "score": 4660
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Com\u00e9dia e Drama_Romance Vers\u00e1til",
+                        "score": 1475
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Com\u00e9dia e Drama_Com\u00e9dia e Drama",
+                        "score": 1304
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Romance Vers\u00e1til_Com\u00e9dia e Drama",
+                        "score": 993
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia e Drama_Com\u00e9dia e Drama",
+                        "score": 915
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Com\u00e9dia e Drama_Romance Vers\u00e1til",
+                        "score": 890
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Com\u00e9dia e Drama_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 863
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Romance Vers\u00e1til_Romance Vers\u00e1til",
+                        "score": 742
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Com\u00e9dia e Drama_Com\u00e9dia e Drama",
+                        "score": 511
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Romance Vers\u00e1til_Diversidade Documental",
+                        "score": 478
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Romance Vers\u00e1til_Com\u00e9dia e Drama",
+                        "score": 454
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Com\u00e9dia e Drama_Com\u00e9dia de Crime",
+                        "score": 397
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Romance Vers\u00e1til_Romance Vers\u00e1til",
+                        "score": 387
+                  },
+                  {
+                        "ngram": "Romance e Aventura \u00c9pica_Com\u00e9dia e Drama_Com\u00e9dia e Drama",
+                        "score": 384
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Diversidade Documental_Romance Vers\u00e1til",
+                        "score": 379
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Com\u00e9dia e Drama_Com\u00e9dia e Drama",
+                        "score": 373
+                  },
+                  {
+                        "ngram": "Mist\u00e9rios do Crime_Com\u00e9dia e Drama_Com\u00e9dia e Drama",
+                        "score": 362
+                  },
+                  {
+                        "ngram": "Document\u00e1rios da Vida Real_Document\u00e1rios da Vida Real_Document\u00e1rios da Vida Real",
+                        "score": 338
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Com\u00e9dia e Drama_Mist\u00e9rios do Crime",
+                        "score": 294
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Com\u00e9dia e Drama_Conflitos e Caminhos",
+                        "score": 249
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Com\u00e9dia e Drama_Diversidade Documental",
+                        "score": 221
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Suspense_Com\u00e9dia e Drama_Com\u00e9dia e Drama",
+                        "score": 207
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Com\u00e9dia e Drama_Cinebiografia Variada",
+                        "score": 207
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Com\u00e9dia e Drama_Aventura Sombria",
+                        "score": 198
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia e Drama",
+                        "score": 172
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia e Drama",
+                        "score": 170
+                  },
+                  {
+                        "ngram": "Dramas Hist\u00f3ricos_Com\u00e9dia e Drama_Com\u00e9dia e Drama",
+                        "score": 166
+                  },
+                  {
+                        "ngram": "Conflitos e Caminhos_Com\u00e9dia e Drama_Com\u00e9dia e Drama",
+                        "score": 166
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Com\u00e9dia e Drama_Intriga de A\u00e7\u00e3o e Mist\u00e9rio",
+                        "score": 164
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Cinebiografia Variada_Cinebiografia Variada",
+                        "score": 160
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Com\u00e9dia e Drama_Romance e Aventura \u00c9pica",
+                        "score": 160
+                  },
+                  {
+                        "ngram": "Suspense Dram\u00e1tico_Com\u00e9dia e Drama_Com\u00e9dia e Drama",
+                        "score": 157
+                  },
+                  {
+                        "ngram": "Romance e Crime_Com\u00e9dia e Drama_Com\u00e9dia e Drama",
+                        "score": 156
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Romance Vers\u00e1til_Romance e Aventura \u00c9pica",
+                        "score": 147
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Com\u00e9dia e Drama_Com\u00e9dia de Crime",
+                        "score": 147
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Com\u00e9dia e Drama_Enigmas Cinematogr\u00e1ficos",
+                        "score": 145
+                  },
+                  {
+                        "ngram": "Com\u00e9dia Fant\u00e1stica de Terror_Com\u00e9dia e Drama_Com\u00e9dia e Drama",
+                        "score": 144
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_Com\u00e9dia e Drama_Com\u00e9dia e Drama",
+                        "score": 143
+                  },
+                  {
+                        "ngram": "Cinebiografia Variada_Com\u00e9dia e Drama_Com\u00e9dia e Drama",
+                        "score": 142
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Romance Vers\u00e1til_Diversidade Documental",
+                        "score": 139
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia e Drama_Romance Vers\u00e1til",
+                        "score": 138
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Com\u00e9dia e Drama_Aventuras Fant\u00e1sticas",
+                        "score": 128
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Com\u00e9dia e Drama_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 124
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Guerra e Drama_Romance Vers\u00e1til",
+                        "score": 123
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Com\u00e9dia e Drama_Vidas em Cena",
+                        "score": 122
+                  },
+                  {
+                        "ngram": "Aventuras Cinematogr\u00e1ficas_Com\u00e9dia e Drama_Com\u00e9dia e Drama",
+                        "score": 121
+                  },
+                  {
+                        "ngram": "Conflitos e Caminhos_Romance Vers\u00e1til_Com\u00e9dia e Drama",
+                        "score": 120
+                  }
+            ]
+      },
+      {
+            "name": "Soldados Reais",
+            "id": 4,
+            "size": 1626,
+            "ngrams": [
+                  {
+                        "ngram": "Guerra e Drama_Guerra e Drama_Guerra e Drama",
+                        "score": 2871
+                  },
+                  {
+                        "ngram": "Cinebiografia Variada_Cinebiografia Variada_Cinebiografia Variada",
+                        "score": 2395
+                  },
+                  {
+                        "ngram": "Dramas Hist\u00f3ricos_Dramas Hist\u00f3ricos_Dramas Hist\u00f3ricos",
+                        "score": 2261
+                  },
+                  {
+                        "ngram": "Hist\u00f3ria e Drama_Hist\u00f3ria e Drama_Hist\u00f3ria e Drama",
+                        "score": 2209
+                  },
+                  {
+                        "ngram": "Vidas em Foco_Vidas em Foco_Vidas em Foco",
+                        "score": 1457
+                  },
+                  {
+                        "ngram": "Diversidade Hist\u00f3rica_Diversidade Hist\u00f3rica_Diversidade Hist\u00f3rica",
+                        "score": 900
+                  },
+                  {
+                        "ngram": "Hist\u00f3ria e Drama_Guerra e Drama_Guerra e Drama",
+                        "score": 584
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Vidas em Foco_Vidas em Foco",
+                        "score": 430
+                  },
+                  {
+                        "ngram": "Guerra e Drama_Guerra e Drama_Cinebiografia Variada",
+                        "score": 378
+                  },
+                  {
+                        "ngram": "Vidas em Foco_Vidas em Foco_Diversidade Documental",
+                        "score": 365
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_Hist\u00f3ria e Drama_Hist\u00f3ria e Drama",
+                        "score": 336
+                  },
+                  {
+                        "ngram": "Guerra e Drama_Guerra e Drama_Hist\u00f3ria e Drama",
+                        "score": 300
+                  },
+                  {
+                        "ngram": "Hist\u00f3ria e Drama_Hist\u00f3ria e Drama_Guerra e Drama",
+                        "score": 300
+                  },
+                  {
+                        "ngram": "Cinebiografia Variada_Cinebiografia Variada_Romance e Aventura \u00c9pica",
+                        "score": 267
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Suspense_Cinebiografia Variada_Cinebiografia Variada",
+                        "score": 265
+                  },
+                  {
+                        "ngram": "Guerra e Drama_Hist\u00f3ria e Drama_Hist\u00f3ria e Drama",
+                        "score": 254
+                  }
+            ]
+      },
+      {
+            "name": "Epopeias e Paixões",
+            "id": 8,
+            "size": 1857,
+            "ngrams": [
+                  {
+                        "ngram": "Romance e Aventura \u00c9pica_Romance e Aventura \u00c9pica_Romance e Aventura \u00c9pica",
+                        "score": 5623
+                  },
+                  {
+                        "ngram": "Romance e Aventura \u00c9pica_Romance e Aventura \u00c9pica_Romance Vers\u00e1til",
+                        "score": 1740
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Romance e Aventura \u00c9pica_Romance e Aventura \u00c9pica",
+                        "score": 1694
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Romance Vers\u00e1til_Romance e Aventura \u00c9pica",
+                        "score": 1111
+                  },
+                  {
+                        "ngram": "Romance e Aventura \u00c9pica_Romance Vers\u00e1til_Romance Vers\u00e1til",
+                        "score": 838
+                  },
+                  {
+                        "ngram": "Romance e Aventura \u00c9pica_Romance Vers\u00e1til_Romance e Aventura \u00c9pica",
+                        "score": 829
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Romance e Aventura \u00c9pica_Romance Vers\u00e1til",
+                        "score": 791
+                  },
+                  {
+                        "ngram": "Romance e Aventura \u00c9pica_Romance e Aventura \u00c9pica_Conflitos e Caminhos",
+                        "score": 645
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Romance e Aventura \u00c9pica_Romance e Aventura \u00c9pica",
+                        "score": 638
+                  },
+                  {
+                        "ngram": "Romance e Aventura \u00c9pica_Romance e Aventura \u00c9pica_Com\u00e9dia e Drama",
+                        "score": 571
+                  },
+                  {
+                        "ngram": "Conflitos e Caminhos_Romance e Aventura \u00c9pica_Romance e Aventura \u00c9pica",
+                        "score": 538
+                  },
+                  {
+                        "ngram": "Romance e Aventura \u00c9pica_Romance e Aventura \u00c9pica_Diversidade Documental",
+                        "score": 524
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Romance e Aventura \u00c9pica_Romance e Aventura \u00c9pica",
+                        "score": 418
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Romance e Aventura \u00c9pica_Romance e Aventura \u00c9pica",
+                        "score": 317
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_Romance e Aventura \u00c9pica_Romance e Aventura \u00c9pica",
+                        "score": 316
+                  },
+                  {
+                        "ngram": "Romance e Aventura \u00c9pica_Conflitos e Caminhos_Romance e Aventura \u00c9pica",
+                        "score": 309
+                  },
+                  {
+                        "ngram": "Romance e Intriga_Romance e Aventura \u00c9pica_Romance e Aventura \u00c9pica",
+                        "score": 307
+                  },
+                  {
+                        "ngram": "Romance e Aventura \u00c9pica_Romance Vers\u00e1til_Com\u00e9dia e Drama",
+                        "score": 274
+                  },
+                  {
+                        "ngram": "Romance e Aventura \u00c9pica_Romance e Aventura \u00c9pica_Com\u00e9dia de Crime",
+                        "score": 242
+                  },
+                  {
+                        "ngram": "Romance e Aventura \u00c9pica_Romance e Aventura \u00c9pica_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 238
+                  },
+                  {
+                        "ngram": "Dramas Hist\u00f3ricos_Romance e Aventura \u00c9pica_Romance e Aventura \u00c9pica",
+                        "score": 229
+                  },
+                  {
+                        "ngram": "Romance e Aventura \u00c9pica_Romance e Aventura \u00c9pica_Romance e Intriga",
+                        "score": 224
+                  },
+                  {
+                        "ngram": "Romance e Aventura \u00c9pica_Romance e Aventura \u00c9pica_Cinebiografia Variada",
+                        "score": 222
+                  },
+                  {
+                        "ngram": "Romance e Aventura \u00c9pica_Romance e Aventura \u00c9pica_Mist\u00e9rios do Crime",
+                        "score": 213
+                  },
+                  {
+                        "ngram": "Romance e Aventura \u00c9pica_Romance e Aventura \u00c9pica_Enigmas Cinematogr\u00e1ficos",
+                        "score": 206
+                  },
+                  {
+                        "ngram": "Aventura Fantasiosas em Fam\u00edlia_Romance e Aventura \u00c9pica_Romance e Aventura \u00c9pica",
+                        "score": 195
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Romance e Aventura \u00c9pica_Romance Vers\u00e1til",
+                        "score": 190
+                  },
+                  {
+                        "ngram": "Romance e Aventura \u00c9pica_Romance e Aventura \u00c9pica_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 188
+                  },
+                  {
+                        "ngram": "Fantasia em A\u00e7\u00e3o e Aventura_Romance e Aventura \u00c9pica_Romance e Aventura \u00c9pica",
+                        "score": 185
+                  },
+                  {
+                        "ngram": "Romance e Aventura \u00c9pica_Romance Vers\u00e1til_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 180
+                  },
+                  {
+                        "ngram": "Romance e Aventura \u00c9pica_Romance Vers\u00e1til_Diversidade Documental",
+                        "score": 179
+                  },
+                  {
+                        "ngram": "Romance e Aventura \u00c9pica_Romance e Intriga_Romance e Intriga",
+                        "score": 174
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Romance e Intriga_Romance e Aventura \u00c9pica",
+                        "score": 172
+                  },
+                  {
+                        "ngram": "Romance e Aventura \u00c9pica_Com\u00e9dia e Drama_Romance e Aventura \u00c9pica",
+                        "score": 171
+                  },
+                  {
+                        "ngram": "Romance e Crime_Romance e Aventura \u00c9pica_Romance e Aventura \u00c9pica",
+                        "score": 166
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Romance e Aventura \u00c9pica_Romance e Aventura \u00c9pica",
+                        "score": 165
+                  },
+                  {
+                        "ngram": "Cinebiografia Variada_Romance e Aventura \u00c9pica_Romance e Aventura \u00c9pica",
+                        "score": 163
+                  },
+                  {
+                        "ngram": "Romance e Aventura \u00c9pica_Romance e Aventura \u00c9pica_A\u00e7\u00e3o e Suspense",
+                        "score": 159
+                  },
+                  {
+                        "ngram": "Horror Sci-Fi_Romance e Aventura \u00c9pica_Romance e Aventura \u00c9pica",
+                        "score": 158
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_Romance Vers\u00e1til_Romance e Aventura \u00c9pica",
+                        "score": 154
+                  },
+                  {
+                        "ngram": "Romance e Aventura \u00c9pica_Diversidade Documental_Romance e Aventura \u00c9pica",
+                        "score": 151
+                  }
+            ]
+      },
+      {
+            "name": "Temerários do Enigma",
+            "id": 7,
+            "size": 406,
+            "ngrams": [
+                  {
+                        "ngram": "Intriga de A\u00e7\u00e3o e Mist\u00e9rio_Intriga de A\u00e7\u00e3o e Mist\u00e9rio_Intriga de A\u00e7\u00e3o e Mist\u00e9rio",
+                        "score": 11439
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Intriga de A\u00e7\u00e3o e Mist\u00e9rio_Intriga de A\u00e7\u00e3o e Mist\u00e9rio",
+                        "score": 1715
+                  },
+                  {
+                        "ngram": "Intriga de A\u00e7\u00e3o e Mist\u00e9rio_Intriga de A\u00e7\u00e3o e Mist\u00e9rio_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 1709
+                  },
+                  {
+                        "ngram": "Suspense Dram\u00e1tico_Intriga de A\u00e7\u00e3o e Mist\u00e9rio_Intriga de A\u00e7\u00e3o e Mist\u00e9rio",
+                        "score": 969
+                  },
+                  {
+                        "ngram": "Intriga de A\u00e7\u00e3o e Mist\u00e9rio_Intriga de A\u00e7\u00e3o e Mist\u00e9rio_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 931
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Intriga de A\u00e7\u00e3o e Mist\u00e9rio_Romance Vers\u00e1til",
+                        "score": 855
+                  },
+                  {
+                        "ngram": "Intriga de A\u00e7\u00e3o e Mist\u00e9rio_Intriga de A\u00e7\u00e3o e Mist\u00e9rio_Horror Sci-Fi",
+                        "score": 826
+                  },
+                  {
+                        "ngram": "Aventuras em Fam\u00edlia_Intriga de A\u00e7\u00e3o e Mist\u00e9rio_Intriga de A\u00e7\u00e3o e Mist\u00e9rio",
+                        "score": 816
+                  },
+                  {
+                        "ngram": "Intriga de A\u00e7\u00e3o e Mist\u00e9rio_Romance Vers\u00e1til_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 766
+                  },
+                  {
+                        "ngram": "Intriga de A\u00e7\u00e3o e Mist\u00e9rio_Intriga de A\u00e7\u00e3o e Mist\u00e9rio_Com\u00e9dia e Drama",
+                        "score": 766
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Romance Vers\u00e1til_Intriga de A\u00e7\u00e3o e Mist\u00e9rio",
+                        "score": 705
+                  },
+                  {
+                        "ngram": "Mist\u00e9rios do Crime_Intriga de A\u00e7\u00e3o e Mist\u00e9rio_Intriga de A\u00e7\u00e3o e Mist\u00e9rio",
+                        "score": 691
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Guerra e Drama_Diversidade Documental",
+                        "score": 667
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Intriga de A\u00e7\u00e3o e Mist\u00e9rio_Intriga de A\u00e7\u00e3o e Mist\u00e9rio",
+                        "score": 649
+                  },
+                  {
+                        "ngram": "Intriga de A\u00e7\u00e3o e Mist\u00e9rio_Intriga de A\u00e7\u00e3o e Mist\u00e9rio_Suspense Dram\u00e1tico",
+                        "score": 625
+                  },
+                  {
+                        "ngram": "Intriga de A\u00e7\u00e3o e Mist\u00e9rio_Intriga de A\u00e7\u00e3o e Mist\u00e9rio_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica",
+                        "score": 603
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Suspense_Intriga de A\u00e7\u00e3o e Mist\u00e9rio_Intriga de A\u00e7\u00e3o e Mist\u00e9rio",
+                        "score": 586
+                  },
+                  {
+                        "ngram": "Intriga de A\u00e7\u00e3o e Mist\u00e9rio_Intriga de A\u00e7\u00e3o e Mist\u00e9rio_Com\u00e9dia de Crime",
+                        "score": 560
+                  },
+                  {
+                        "ngram": "Intriga de A\u00e7\u00e3o e Mist\u00e9rio_Intriga de A\u00e7\u00e3o e Mist\u00e9rio_Romance Vers\u00e1til",
+                        "score": 533
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_Intriga de A\u00e7\u00e3o e Mist\u00e9rio_Intriga de A\u00e7\u00e3o e Mist\u00e9rio",
+                        "score": 522
+                  }
+            ]
+      },
+      {
+            "name": "Picos de Adrenalina",
+            "id": 10,
+            "size": 2585,
+            "ngrams": [
+                  {
+                        "ngram": "Aventura Sombria_Aventura Sombria_Aventura Sombria",
+                        "score": 3209
+                  },
+                  {
+                        "ngram": "Horror Sci-Fi_Horror Sci-Fi_Horror Sci-Fi",
+                        "score": 1842
+                  },
+                  {
+                        "ngram": "Romance e Intriga_Romance e Intriga_Romance e Intriga",
+                        "score": 629
+                  },
+                  {
+                        "ngram": "Aventura Sombria_Aventura Sombria_Horror Sci-Fi",
+                        "score": 619
+                  },
+                  {
+                        "ngram": "Suspense Constante_Aventura Sombria_Aventura Sombria",
+                        "score": 580
+                  },
+                  {
+                        "ngram": "Horror Sci-Fi_Aventura Sombria_Aventura Sombria",
+                        "score": 573
+                  },
+                  {
+                        "ngram": "Horror Sci-Fi_Horror Sci-Fi_Aventura Sombria",
+                        "score": 570
+                  },
+                  {
+                        "ngram": "Aventura Sombria_Horror Sci-Fi_Horror Sci-Fi",
+                        "score": 513
+                  },
+                  {
+                        "ngram": "Suspense Constante_Suspense Constante_Suspense Constante",
+                        "score": 505
+                  },
+                  {
+                        "ngram": "Com\u00e9dia Fant\u00e1stica de Terror_Com\u00e9dia Fant\u00e1stica de Terror_Com\u00e9dia Fant\u00e1stica de Terror",
+                        "score": 483
+                  },
+                  {
+                        "ngram": "Aventura Sombria_Aventura Sombria_Suspense Constante",
+                        "score": 444
+                  },
+                  {
+                        "ngram": "Aventura Sombria_Aventura Sombria_Com\u00e9dia Fant\u00e1stica de Terror",
+                        "score": 381
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Aventura Sombria_Aventura Sombria",
+                        "score": 376
+                  },
+                  {
+                        "ngram": "Aventura Sombria_Suspense Constante_Suspense Constante",
+                        "score": 362
+                  },
+                  {
+                        "ngram": "Com\u00e9dia Fant\u00e1stica de Terror_Aventura Sombria_Aventura Sombria",
+                        "score": 341
+                  },
+                  {
+                        "ngram": "Suspense Constante_Suspense Constante_Aventura Sombria",
+                        "score": 335
+                  },
+                  {
+                        "ngram": "Aventura Sombria_Horror Sci-Fi_Aventura Sombria",
+                        "score": 328
+                  },
+                  {
+                        "ngram": "Horror Sci-Fi_Horror Sci-Fi_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 324
+                  },
+                  {
+                        "ngram": "Aventura Sombria_Aventura Sombria_Enigmas Cinematogr\u00e1ficos",
+                        "score": 301
+                  },
+                  {
+                        "ngram": "Aventura Sombria_Aventura Sombria_Mist\u00e9rios do Crime",
+                        "score": 294
+                  },
+                  {
+                        "ngram": "Mist\u00e9rios Sombrios_Mist\u00e9rios Sombrios_Mist\u00e9rios Sombrios",
+                        "score": 292
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Aventura Sombria_Aventura Sombria",
+                        "score": 292
+                  },
+                  {
+                        "ngram": "Aventura Sombria_Suspense Constante_Aventura Sombria",
+                        "score": 288
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Suspense_Aventura Sombria_Aventura Sombria",
+                        "score": 284
+                  },
+                  {
+                        "ngram": "Aventura Sombria_Aventura Sombria_Romance Vers\u00e1til",
+                        "score": 284
+                  },
+                  {
+                        "ngram": "Aventura Sombria_Aventura Sombria_Romance e Intriga",
+                        "score": 271
+                  },
+                  {
+                        "ngram": "Mist\u00e9rios do Crime_Aventura Sombria_Aventura Sombria",
+                        "score": 264
+                  },
+                  {
+                        "ngram": "Enigmas Cinematogr\u00e1ficos_Aventura Sombria_Aventura Sombria",
+                        "score": 259
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Aventura Sombria_Aventura Sombria",
+                        "score": 241
+                  },
+                  {
+                        "ngram": "Aventura Sombria_Aventura Sombria_Conflitos e Caminhos",
+                        "score": 237
+                  },
+                  {
+                        "ngram": "Mist\u00e9rios Sombrios_Aventura Sombria_Aventura Sombria",
+                        "score": 227
+                  },
+                  {
+                        "ngram": "Horror Sci-Fi_Aventura Sombria_Suspense Constante",
+                        "score": 219
+                  },
+                  {
+                        "ngram": "Romance e Intriga_Aventura Sombria_Aventura Sombria",
+                        "score": 210
+                  },
+                  {
+                        "ngram": "Aventura Sombria_Aventura Sombria_A\u00e7\u00e3o e Suspense",
+                        "score": 204
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Horror Sci-Fi_Horror Sci-Fi",
+                        "score": 201
+                  },
+                  {
+                        "ngram": "Aventura Sombria_Com\u00e9dia Fant\u00e1stica de Terror_Com\u00e9dia Fant\u00e1stica de Terror",
+                        "score": 199
+                  },
+                  {
+                        "ngram": "Aventura Sombria_Aventura Sombria_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 199
+                  },
+                  {
+                        "ngram": "Fantasia em A\u00e7\u00e3o e Aventura_Horror Sci-Fi_Horror Sci-Fi",
+                        "score": 190
+                  },
+                  {
+                        "ngram": "Horror Sci-Fi_Horror Sci-Fi_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 190
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Com\u00e9dia Fant\u00e1stica de Terror_Com\u00e9dia Fant\u00e1stica de Terror",
+                        "score": 179
+                  },
+                  {
+                        "ngram": "Aventura Sombria_Aventura Sombria_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 178
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Horror Sci-Fi_Horror Sci-Fi",
+                        "score": 175
+                  },
+                  {
+                        "ngram": "Aventura Sombria_Aventura Sombria_Diversidade Documental",
+                        "score": 173
+                  },
+                  {
+                        "ngram": "Suspense Constante_Horror Sci-Fi_Aventura Sombria",
+                        "score": 168
+                  }
+            ]
+      },
+      {
+            "name": "Exploradores Fantásticos",
             "id": 21,
-            "size": 10
+            "size": 559,
+            "ngrams": [
+                  {
+                        "ngram": "Aventuras Fant\u00e1sticas_Aventuras Fant\u00e1sticas_Aventuras Fant\u00e1sticas",
+                        "score": 16967
+                  },
+                  {
+                        "ngram": "Romance e Aventura \u00c9pica_Aventuras Fant\u00e1sticas_Aventuras Fant\u00e1sticas",
+                        "score": 2053
+                  },
+                  {
+                        "ngram": "Aventuras Fant\u00e1sticas_Aventuras Fant\u00e1sticas_Romance e Intriga",
+                        "score": 2033
+                  },
+                  {
+                        "ngram": "Aventuras Fant\u00e1sticas_Aventuras Fant\u00e1sticas_Fantasia em A\u00e7\u00e3o e Aventura",
+                        "score": 1398
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Aventuras Fant\u00e1sticas_Aventuras Fant\u00e1sticas",
+                        "score": 1178
+                  },
+                  {
+                        "ngram": "Fantasia em A\u00e7\u00e3o e Aventura_Aventuras Fant\u00e1sticas_Aventuras Fant\u00e1sticas",
+                        "score": 1153
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Aventuras Fant\u00e1sticas_Aventuras Fant\u00e1sticas",
+                        "score": 1022
+                  },
+                  {
+                        "ngram": "Aventuras Fant\u00e1sticas_Aventuras Fant\u00e1sticas_Aventura Fantasiosas em Fam\u00edlia",
+                        "score": 904
+                  },
+                  {
+                        "ngram": "Aventuras Fant\u00e1sticas_Aventuras Fant\u00e1sticas_Diversidade Documental",
+                        "score": 880
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_Aventuras Fant\u00e1sticas_Aventuras Fant\u00e1sticas",
+                        "score": 845
+                  },
+                  {
+                        "ngram": "Romance e Intriga_Aventuras Fant\u00e1sticas_Aventuras Fant\u00e1sticas",
+                        "score": 795
+                  },
+                  {
+                        "ngram": "Aventuras Fant\u00e1sticas_Aventuras Fant\u00e1sticas_Romance e Aventura \u00c9pica",
+                        "score": 756
+                  },
+                  {
+                        "ngram": "Aventuras Fant\u00e1sticas_Aventuras Fant\u00e1sticas_Mist\u00e9rios do Crime",
+                        "score": 739
+                  },
+                  {
+                        "ngram": "Aventuras Fant\u00e1sticas_Romance e Intriga_Aventuras Fant\u00e1sticas",
+                        "score": 704
+                  },
+                  {
+                        "ngram": "Aventuras Fant\u00e1sticas_Aventuras Fant\u00e1sticas_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 662
+                  }
+            ]
       },
       {
-            "name": "Com. 22",
-            "id": 22,
-            "size": 10
+            "name": "Heróis Místicos",
+            "id": 11,
+            "size": 1065,
+            "ngrams": [
+                  {
+                        "ngram": "Fantasia em A\u00e7\u00e3o e Aventura_Fantasia em A\u00e7\u00e3o e Aventura_Fantasia em A\u00e7\u00e3o e Aventura",
+                        "score": 9938
+                  },
+                  {
+                        "ngram": "Fantasia em A\u00e7\u00e3o e Aventura_Fantasia em A\u00e7\u00e3o e Aventura_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 1550
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_Fantasia em A\u00e7\u00e3o e Aventura_Fantasia em A\u00e7\u00e3o e Aventura",
+                        "score": 1309
+                  },
+                  {
+                        "ngram": "Fantasia em A\u00e7\u00e3o e Aventura_Fantasia em A\u00e7\u00e3o e Aventura_A\u00e7\u00e3o e Suspense",
+                        "score": 1073
+                  },
+                  {
+                        "ngram": "Fantasia em A\u00e7\u00e3o e Aventura_Fantasia em A\u00e7\u00e3o e Aventura_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 907
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Fantasia em A\u00e7\u00e3o e Aventura_Fantasia em A\u00e7\u00e3o e Aventura",
+                        "score": 698
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Fantasia em A\u00e7\u00e3o e Aventura_Fantasia em A\u00e7\u00e3o e Aventura",
+                        "score": 623
+                  },
+                  {
+                        "ngram": "Fantasia em A\u00e7\u00e3o e Aventura_Fantasia em A\u00e7\u00e3o e Aventura_Horror Sci-Fi",
+                        "score": 565
+                  },
+                  {
+                        "ngram": "Fantasia em A\u00e7\u00e3o e Aventura_Fantasia em A\u00e7\u00e3o e Aventura_Com\u00e9dia de Crime",
+                        "score": 559
+                  },
+                  {
+                        "ngram": "Conflitos e Caminhos_Fantasia em A\u00e7\u00e3o e Aventura_Fantasia em A\u00e7\u00e3o e Aventura",
+                        "score": 536
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Suspense_Fantasia em A\u00e7\u00e3o e Aventura_Fantasia em A\u00e7\u00e3o e Aventura",
+                        "score": 526
+                  },
+                  {
+                        "ngram": "Fantasia em A\u00e7\u00e3o e Aventura_Fantasia em A\u00e7\u00e3o e Aventura_Aventuras Fant\u00e1sticas",
+                        "score": 512
+                  },
+                  {
+                        "ngram": "Fantasia em A\u00e7\u00e3o e Aventura_Fantasia em A\u00e7\u00e3o e Aventura_A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica",
+                        "score": 510
+                  },
+                  {
+                        "ngram": "Harmonia Dram\u00e1tica_Fantasia em A\u00e7\u00e3o e Aventura_Fantasia em A\u00e7\u00e3o e Aventura",
+                        "score": 478
+                  },
+                  {
+                        "ngram": "Fantasia em A\u00e7\u00e3o e Aventura_Fantasia em A\u00e7\u00e3o e Aventura_Aventuras Interdimensionais",
+                        "score": 466
+                  },
+                  {
+                        "ngram": "Fantasia em A\u00e7\u00e3o e Aventura_Intriga de A\u00e7\u00e3o e Mist\u00e9rio_Intriga de A\u00e7\u00e3o e Mist\u00e9rio",
+                        "score": 442
+                  },
+                  {
+                        "ngram": "Fantasia em A\u00e7\u00e3o e Aventura_Fantasia em A\u00e7\u00e3o e Aventura_Romance Vers\u00e1til",
+                        "score": 434
+                  },
+                  {
+                        "ngram": "Fantasia em A\u00e7\u00e3o e Aventura_Fantasia em A\u00e7\u00e3o e Aventura_Suspense Dram\u00e1tico",
+                        "score": 413
+                  },
+                  {
+                        "ngram": "Suspense Dram\u00e1tico_Fantasia em A\u00e7\u00e3o e Aventura_Fantasia em A\u00e7\u00e3o e Aventura",
+                        "score": 409
+                  },
+                  {
+                        "ngram": "Romance e Intriga_Fantasia em A\u00e7\u00e3o e Aventura_Fantasia em A\u00e7\u00e3o e Aventura",
+                        "score": 395
+                  },
+                  {
+                        "ngram": "Fantasia em A\u00e7\u00e3o e Aventura_Romance Vers\u00e1til_Romance Vers\u00e1til",
+                        "score": 393
+                  },
+                  {
+                        "ngram": "Fantasia em A\u00e7\u00e3o e Aventura_Fantasia em A\u00e7\u00e3o e Aventura_Hist\u00f3ria e Drama",
+                        "score": 384
+                  },
+                  {
+                        "ngram": "Guerra e Drama_Fantasia em A\u00e7\u00e3o e Aventura_Fantasia em A\u00e7\u00e3o e Aventura",
+                        "score": 370
+                  },
+                  {
+                        "ngram": "Dramas Hist\u00f3ricos_Fantasia em A\u00e7\u00e3o e Aventura_Fantasia em A\u00e7\u00e3o e Aventura",
+                        "score": 370
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Com\u00e9dia C\u00f3smica_Fantasia em A\u00e7\u00e3o e Aventura_Fantasia em A\u00e7\u00e3o e Aventura",
+                        "score": 363
+                  },
+                  {
+                        "ngram": "Fic\u00e7\u00e3o Cient\u00edfica_Fantasia em A\u00e7\u00e3o e Aventura_Fantasia em A\u00e7\u00e3o e Aventura",
+                        "score": 339
+                  },
+                  {
+                        "ngram": "Fantasia em A\u00e7\u00e3o e Aventura_Fantasia em A\u00e7\u00e3o e Aventura_Aventura Sombria",
+                        "score": 328
+                  }
+            ]
+      },
+      {
+            "name": "Docufãs",
+            "id": 14,
+            "size": 2942,
+            "ngrams": [
+                  {
+                        "ngram": "Diversidade Documental_Diversidade Documental_Diversidade Documental",
+                        "score": 13045
+                  },
+                  {
+                        "ngram": "Vidas em Foco_Diversidade Documental_Diversidade Documental",
+                        "score": 1161
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Diversidade Documental_Diversidade Hist\u00f3rica",
+                        "score": 1125
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Diversidade Documental_Romance Vers\u00e1til",
+                        "score": 1030
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Diversidade Documental_Diversidade Documental",
+                        "score": 969
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Diversidade Documental_Vidas em Foco",
+                        "score": 923
+                  },
+                  {
+                        "ngram": "Diversidade Hist\u00f3rica_Diversidade Documental_Diversidade Documental",
+                        "score": 897
+                  },
+                  {
+                        "ngram": "Mist\u00e9rios do Crime_Diversidade Documental_Diversidade Documental",
+                        "score": 832
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Diversidade Documental_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 730
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Diversidade Documental_Diversidade Documental",
+                        "score": 730
+                  },
+                  {
+                        "ngram": "Document\u00e1rios da Vida Real_Diversidade Documental_Diversidade Documental",
+                        "score": 686
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Diversidade Hist\u00f3rica_Diversidade Documental",
+                        "score": 670
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Diversidade Documental_Mist\u00e9rios do Crime",
+                        "score": 665
+                  },
+                  {
+                        "ngram": "Conflitos e Caminhos_Diversidade Documental_Diversidade Documental",
+                        "score": 664
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Diversidade Documental_Conflitos e Caminhos",
+                        "score": 640
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Diversidade Documental_Document\u00e1rios da Vida Real",
+                        "score": 622
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Diversidade Documental_Diversidade Documental",
+                        "score": 614
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Diversidade Documental_Com\u00e9dia e Drama",
+                        "score": 614
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Vidas em Foco_Diversidade Documental",
+                        "score": 587
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Diversidade Documental_Document\u00e1rio e Curtas",
+                        "score": 539
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Diversidade Documental_A\u00e7\u00e3o e Suspense",
+                        "score": 530
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Diversidade Documental_Cinebiografia Variada",
+                        "score": 524
+                  },
+                  {
+                        "ngram": "Cinebiografia Variada_Diversidade Documental_Diversidade Documental",
+                        "score": 506
+                  },
+                  {
+                        "ngram": "Enigmas Cinematogr\u00e1ficos_Diversidade Documental_Diversidade Documental",
+                        "score": 489
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Diversidade Documental_Com\u00e9dia de Crime",
+                        "score": 479
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Diversidade Documental_Romance e Aventura \u00c9pica",
+                        "score": 469
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Diversidade Documental_Enigmas Cinematogr\u00e1ficos",
+                        "score": 457
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Diversidade Documental_Diversidade Documental",
+                        "score": 443
+                  },
+                  {
+                        "ngram": "Document\u00e1rio e Curtas_Diversidade Documental_Diversidade Documental",
+                        "score": 442
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Diversidade Documental_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 432
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_Diversidade Documental_Diversidade Documental",
+                        "score": 399
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Romance Vers\u00e1til_Diversidade Documental",
+                        "score": 392
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Document\u00e1rios da Vida Real_Diversidade Documental",
+                        "score": 373
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Diversidade Documental_Aventura Sombria",
+                        "score": 347
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Diversidade Hist\u00f3rica_Diversidade Hist\u00f3rica",
+                        "score": 338
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Document\u00e1rio e Curtas_Diversidade Documental",
+                        "score": 335
+                  },
+                  {
+                        "ngram": "Suspense Dram\u00e1tico_Diversidade Documental_Diversidade Documental",
+                        "score": 323
+                  },
+                  {
+                        "ngram": "Document\u00e1rios da Vida Real_Document\u00e1rios da Vida Real_Diversidade Documental",
+                        "score": 303
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Diversidade Documental_Suspense Dram\u00e1tico",
+                        "score": 299
+                  },
+                  {
+                        "ngram": "Diversidade Hist\u00f3rica_Diversidade Hist\u00f3rica_Diversidade Documental",
+                        "score": 296
+                  },
+                  {
+                        "ngram": "Aventura Sombria_Diversidade Documental_Diversidade Documental",
+                        "score": 296
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Com\u00e9dia e Drama_Diversidade Documental",
+                        "score": 293
+                  },
+                  {
+                        "ngram": "Fantasia em A\u00e7\u00e3o e Aventura_Diversidade Documental_Diversidade Documental",
+                        "score": 291
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Conflitos e Caminhos_Diversidade Documental",
+                        "score": 275
+                  },
+                  {
+                        "ngram": "Horror Sci-Fi_Diversidade Documental_Diversidade Documental",
+                        "score": 274
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Suspense_Diversidade Documental_Diversidade Documental",
+                        "score": 270
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Diversidade Documental_Dramas Hist\u00f3ricos",
+                        "score": 263
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Diversidade Documental_Fantasia em A\u00e7\u00e3o e Aventura",
+                        "score": 259
+                  },
+                  {
+                        "ngram": "Aventura Fantasiosas em Fam\u00edlia_Diversidade Documental_Diversidade Documental",
+                        "score": 239
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Mist\u00e9rios do Crime_Diversidade Documental",
+                        "score": 238
+                  },
+                  {
+                        "ngram": "Romance e Intriga_Diversidade Documental_Diversidade Documental",
+                        "score": 233
+                  },
+                  {
+                        "ngram": "Biografia e Crime_Diversidade Documental_Diversidade Documental",
+                        "score": 228
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Com\u00e9dia de A\u00e7\u00e3o_Diversidade Documental",
+                        "score": 223
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Diversidade Documental_Hist\u00f3ria e Drama",
+                        "score": 219
+                  }
+            ]
+      },
+      {
+            "name": "Enigimáticos",
+            "id": 2,
+            "size": 1353,
+            "ngrams": [
+                  {
+                        "ngram": "Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos",
+                        "score": 11316
+                  },
+                  {
+                        "ngram": "Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos_Diversidade Documental",
+                        "score": 1235
+                  },
+                  {
+                        "ngram": "Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos_Horror Sci-Fi",
+                        "score": 1197
+                  },
+                  {
+                        "ngram": "Horror Sci-Fi_Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos",
+                        "score": 1133
+                  },
+                  {
+                        "ngram": "Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos_Aventura Sombria",
+                        "score": 1058
+                  },
+                  {
+                        "ngram": "Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos_Mist\u00e9rios do Crime",
+                        "score": 908
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos",
+                        "score": 801
+                  },
+                  {
+                        "ngram": "Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos_A\u00e7\u00e3o, Aventura e Sci-Fi",
+                        "score": 787
+                  },
+                  {
+                        "ngram": "Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos_Conflitos e Caminhos",
+                        "score": 732
+                  },
+                  {
+                        "ngram": "Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 648
+                  },
+                  {
+                        "ngram": "Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos_Romance Vers\u00e1til",
+                        "score": 642
+                  },
+                  {
+                        "ngram": "Com\u00e9dia e Drama_Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos",
+                        "score": 615
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o e Suspense_Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos",
+                        "score": 613
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de A\u00e7\u00e3o_Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos",
+                        "score": 600
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos",
+                        "score": 597
+                  },
+                  {
+                        "ngram": "Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos_Suspense Dram\u00e1tico",
+                        "score": 524
+                  },
+                  {
+                        "ngram": "Diversidade Documental_Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos",
+                        "score": 521
+                  },
+                  {
+                        "ngram": "Aventura Sombria_Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos",
+                        "score": 496
+                  },
+                  {
+                        "ngram": "Conflitos e Caminhos_Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos",
+                        "score": 480
+                  },
+                  {
+                        "ngram": "Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos_Fic\u00e7\u00e3o Cient\u00edfica",
+                        "score": 438
+                  },
+                  {
+                        "ngram": "Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos_Romance e Aventura \u00c9pica",
+                        "score": 416
+                  },
+                  {
+                        "ngram": "Horror Sci-Fi_Horror Sci-Fi_Enigmas Cinematogr\u00e1ficos",
+                        "score": 390
+                  },
+                  {
+                        "ngram": "Fantasia em A\u00e7\u00e3o e Aventura_Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos",
+                        "score": 375
+                  },
+                  {
+                        "ngram": "Com\u00e9dia de Crime_Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos",
+                        "score": 374
+                  },
+                  {
+                        "ngram": "Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos_A\u00e7\u00e3o e Suspense",
+                        "score": 352
+                  },
+                  {
+                        "ngram": "Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos_Com\u00e9dia de Crime",
+                        "score": 324
+                  },
+                  {
+                        "ngram": "Aventuras Fant\u00e1sticas_Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos",
+                        "score": 311
+                  },
+                  {
+                        "ngram": "Enigmas Cinematogr\u00e1ficos_Horror Sci-Fi_Enigmas Cinematogr\u00e1ficos",
+                        "score": 303
+                  },
+                  {
+                        "ngram": "Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos_Com\u00e9dia e Drama",
+                        "score": 294
+                  },
+                  {
+                        "ngram": "Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos_Hist\u00f3ria e Drama",
+                        "score": 293
+                  },
+                  {
+                        "ngram": "Enigmas Cinematogr\u00e1ficos_Horror Sci-Fi_Horror Sci-Fi",
+                        "score": 275
+                  },
+                  {
+                        "ngram": "Mist\u00e9rios do Crime_Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos",
+                        "score": 270
+                  },
+                  {
+                        "ngram": "Intriga de A\u00e7\u00e3o e Mist\u00e9rio_Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos",
+                        "score": 264
+                  },
+                  {
+                        "ngram": "Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos_Dramas Hist\u00f3ricos",
+                        "score": 256
+                  },
+                  {
+                        "ngram": "Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos_Fantasia em A\u00e7\u00e3o e Aventura",
+                        "score": 246
+                  },
+                  {
+                        "ngram": "Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos_Suspense Constante",
+                        "score": 242
+                  },
+                  {
+                        "ngram": "Romance e Intriga_Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos",
+                        "score": 227
+                  },
+                  {
+                        "ngram": "Dramas Hist\u00f3ricos_Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos",
+                        "score": 225
+                  },
+                  {
+                        "ngram": "Mist\u00e9rios Sombrios_Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos",
+                        "score": 219
+                  },
+                  {
+                        "ngram": "Enigmas Cinematogr\u00e1ficos_Enigmas Cinematogr\u00e1ficos_Romance e Intriga",
+                        "score": 212
+                  }
+            ]
+      },
+      {
+            "name": "Ritmo em Família",
+            "id": 18,
+            "size": 980,
+            "ngrams": [
+                  {
+                        "ngram": "Divers\u00e3o em Fam\u00edlia_Divers\u00e3o em Fam\u00edlia_Divers\u00e3o em Fam\u00edlia",
+                        "score": 3514
+                  },
+                  {
+                        "ngram": "Harmonia Dram\u00e1tica_Harmonia Dram\u00e1tica_Harmonia Dram\u00e1tica",
+                        "score": 2660
+                  },
+                  {
+                        "ngram": "Melodias C\u00f4micas e Emocionantes_Melodias C\u00f4micas e Emocionantes_Melodias C\u00f4micas e Emocionantes",
+                        "score": 2489
+                  },
+                  {
+                        "ngram": "Vidas em Cena_Vidas em Cena_Vidas em Cena",
+                        "score": 1957
+                  },
+                  {
+                        "ngram": "Divers\u00e3o em Fam\u00edlia_Divers\u00e3o em Fam\u00edlia_Romance Vers\u00e1til",
+                        "score": 705
+                  },
+                  {
+                        "ngram": "Esportes e Drama_Esportes e Drama_Esportes e Drama",
+                        "score": 620
+                  },
+                  {
+                        "ngram": "Vidas em Cena_Vidas em Cena_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 594
+                  },
+                  {
+                        "ngram": "Harmonia Dram\u00e1tica_Harmonia Dram\u00e1tica_Romance Vers\u00e1til",
+                        "score": 589
+                  },
+                  {
+                        "ngram": "Vidas em Cena_Vidas em Cena_Diversidade Documental",
+                        "score": 581
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Divers\u00e3o em Fam\u00edlia_Divers\u00e3o em Fam\u00edlia",
+                        "score": 552
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Romance Vers\u00e1til_Harmonia Dram\u00e1tica",
+                        "score": 498
+                  },
+                  {
+                        "ngram": "Aventuras em Fam\u00edlia_Divers\u00e3o em Fam\u00edlia_Divers\u00e3o em Fam\u00edlia",
+                        "score": 492
+                  },
+                  {
+                        "ngram": "A\u00e7\u00e3o, Aventura e Sci-Fi_Vidas em Cena_Vidas em Cena",
+                        "score": 433
+                  },
+                  {
+                        "ngram": "Divers\u00e3o em Fam\u00edlia_Divers\u00e3o em Fam\u00edlia_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 428
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Romance Vers\u00e1til_Divers\u00e3o em Fam\u00edlia",
+                        "score": 420
+                  },
+                  {
+                        "ngram": "Divers\u00e3o em Fam\u00edlia_Romance Vers\u00e1til_Divers\u00e3o em Fam\u00edlia",
+                        "score": 391
+                  },
+                  {
+                        "ngram": "Melodias C\u00f4micas e Emocionantes_Melodias C\u00f4micas e Emocionantes_Com\u00e9dia de A\u00e7\u00e3o",
+                        "score": 357
+                  },
+                  {
+                        "ngram": "Divers\u00e3o em Fam\u00edlia_Divers\u00e3o em Fam\u00edlia_Aventuras em Fam\u00edlia",
+                        "score": 352
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Harmonia Dram\u00e1tica_Romance Vers\u00e1til",
+                        "score": 347
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Divers\u00e3o em Fam\u00edlia_Romance Vers\u00e1til",
+                        "score": 316
+                  },
+                  {
+                        "ngram": "Romance Vers\u00e1til_Melodias C\u00f4micas e Emocionantes_Melodias C\u00f4micas e Emocionantes",
+                        "score": 314
+                  },
+                  {
+                        "ngram": "Melodias C\u00f4micas e Emocionantes_Melodias C\u00f4micas e Emocionantes_Romance Vers\u00e1til",
+                        "score": 302
+                  }
+            ]
       }
 ]
